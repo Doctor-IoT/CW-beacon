@@ -195,7 +195,7 @@ Connect at **115200 baud, 8N1**. Type the first three characters of the command 
 
 Built at the **IoT Lab @ IIS Cassata Gattapone, Gubbio, Italy** for the 130th anniversary of Guglielmo Marconi's first radio transmission. The beacon was operated remotely from Concordia Station, Antarctica, on the 14 MHz amateur band.
 
-- **element14 Project14 "Make a Connection"** submission: <https://community.element14.com/challenges-projects/project14/p/make-a-connection>
+- **element14 Project14 "Make a Connection"** submission: <https://community.element14.com/challenges-projects/project14/b/make-a-connection/posts/antarctic-beacon-bridging-130-years-of-wireless-history-with-iot-20m-rf-1414660460>
 - **Project blog**: <https://doctoriot.wordpress.com/beacon-cw-14-mhz-3w/>
 
 ---
